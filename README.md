@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @battulaharish2
-- 👀 I’m interested in Deep Neural network applications in power systems
-- 🌱 I’m currently learning Deep learning using MATLAB and digital circuit design using VERILOG
-- 💞️ I’m looking to collaborate on ANN projects and Chip design projects
+- 👀 I’m interested in Deep Neural network applications in real world
+- 🌱 I’m currently learning Deep learning using MATLAB
+- 💞️ I’m looking to collaborate on ANN projects
 - 📫 How to reach me battulaharish2@gmail.com
 
 <!---
