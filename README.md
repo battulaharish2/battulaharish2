@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @battulaharish2
 - 👀 I’m interested in Deep Neural network applications in real world
-- 🌱 I’m currently learning Deep learning using MATLAB
-- 💞️ I’m looking to collaborate on ANN projects
+- 🌱 I’m currently learning Deep learning using Python
+- 💞️ I’m looking to collaborate on Neural Network projects
 - 📫 How to reach me battulaharish2@gmail.com
 
 <!---
